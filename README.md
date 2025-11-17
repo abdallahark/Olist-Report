@@ -48,5 +48,5 @@ To achieve this, I followed a structured, four-phase analytical process:
     * Enhanced user experience with advanced features like custom tooltip that reveals trends on hover. 
 
 # Report screenshots
-    ![Executive Performence](/images/ExecutivePerformance.png)
+![ExecutivePerformence](./images/ExecutivePerformence.png)
  
