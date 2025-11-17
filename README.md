@@ -49,7 +49,7 @@ To achieve this, I followed a structured, four-phase analytical process:
 
 # Report screenshot
 
-![a](./images/ExecutivePerformence.png)
+![ExecutivePerformence](./images/ExecutivePerformence.png)
 
 
  
