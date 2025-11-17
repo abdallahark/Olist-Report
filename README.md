@@ -47,6 +47,9 @@ To achieve this, I followed a structured, four-phase analytical process:
     * Created deep-dive pages for Sales and Operations, utilizing visuals like the Matrix with conditional formatting for detailed analysis and a Filled Map with divergent colors to identify geographic bottlenecks
     * Enhanced user experience with advanced features like custom tooltip that reveals trends on hover. 
 
-# Report screenshots
-    ![Executive Performence](./images/ExecutivePerformance.png)
+# Report screenshot
+
+![a](./images/ExecutivePerformence.png)
+
+
  
