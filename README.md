@@ -47,9 +47,24 @@ To achieve this, I followed a structured, four-phase analytical process:
     * Created deep-dive pages for Sales and Operations, utilizing visuals like the Matrix with conditional formatting for detailed analysis and a Filled Map with divergent colors to identify geographic bottlenecks
     * Enhanced user experience with advanced features like custom tooltip that reveals trends on hover. 
 
-# Report screenshot
+# Power BI report line:
+   ###  Feel free to interact with the the full report on power Bi website: 
+[Full Power Bi Report](https://app.powerbi.com/links/wm6HtEbegz?ctid=6e967450-0326-4cf1-9ef5-700fda020d06&pbi_source=linkShare)
+
+
+# Report screenshots
+   ### Executive performance page
 
 ![ExecutivePerformence](./images/ExecutivePerformence.png)
+   
+   ### Sales And Revenue Page
+
+   ![ExecutivePerformence](./images/SalesAndRevenue.png)
+   
+   ### Logistics And Delivery
+
+   ![ExecutivePerformence](./images/LogisticsAndDelivery.png)
+
 
 
  
